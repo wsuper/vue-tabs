@@ -335,7 +335,7 @@ body::-webkit-scrollbar {
     background-color: #ededed;
 }
 .tabs-list>li.active {
-    background: #23b7e5;
+    background: black;
     color: #fff;
 }
 .tabs-list > li.active .btn-close {
